@@ -1,0 +1,11 @@
+F:\seesharp\Responsi\bin\Debug\netcoreapp2.2\Responsi.deps.json
+F:\seesharp\Responsi\bin\Debug\netcoreapp2.2\Responsi.runtimeconfig.json
+F:\seesharp\Responsi\bin\Debug\netcoreapp2.2\Responsi.runtimeconfig.dev.json
+F:\seesharp\Responsi\bin\Debug\netcoreapp2.2\Responsi.dll
+F:\seesharp\Responsi\bin\Debug\netcoreapp2.2\Responsi.pdb
+F:\seesharp\Responsi\obj\Debug\netcoreapp2.2\Responsi.csprojAssemblyReference.cache
+F:\seesharp\Responsi\obj\Debug\netcoreapp2.2\Responsi.csproj.CoreCompileInputs.cache
+F:\seesharp\Responsi\obj\Debug\netcoreapp2.2\Responsi.AssemblyInfoInputs.cache
+F:\seesharp\Responsi\obj\Debug\netcoreapp2.2\Responsi.AssemblyInfo.cs
+F:\seesharp\Responsi\obj\Debug\netcoreapp2.2\Responsi.dll
+F:\seesharp\Responsi\obj\Debug\netcoreapp2.2\Responsi.pdb
